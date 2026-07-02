@@ -1,4 +1,4 @@
 # site 제작 실습
 HTML, CSS, JavaScript를 사용하여 site를 제작하는 실습입니다.
 
-https://laeva95.github.io/site/
+(https://laeva95.github.io/site/){:target="_blank"}
